@@ -5,6 +5,8 @@ public class Practice2 {
 		
 		System.out.println("hi goodmorning");
 		
+		System.out.println("hello");
+		
 
 	}
 
