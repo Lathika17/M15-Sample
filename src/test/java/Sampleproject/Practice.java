@@ -10,6 +10,7 @@ public class Practice {
 		System.out.println("practicing the github");
 		System.out.println("practicing the github2");
 		System.out.println("Hi");
+		System.out.println("from ATE system");
 
 
 	}
