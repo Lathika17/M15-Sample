@@ -10,7 +10,7 @@ public class Practice {
 		System.out.println("practicing the github");
 		System.out.println("practicing the github2");
 		System.out.println("Hello");
-		System.out.println("from Framework eng system");
+		System.out.println("from FWE system");
 
 
 	}
