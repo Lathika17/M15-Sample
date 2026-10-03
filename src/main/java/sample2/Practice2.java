@@ -4,6 +4,7 @@ public class Practice2 {
 	public static void main(String[] args) {
 		
 		System.out.println("hi goodmorning");
+		System.out.println("hello");
 		
 		
 		
